@@ -1,6 +1,6 @@
 # Desafio Ruby: Coleta de Dados de Usuário 💎
 
-Este é o primeiro desafio de código do curso **Formação Ruby Developer** da [DIO](https://www.dio.me/). O objetivo principal foi praticar a entrada e saída de dados básica utilizando a linguagem Ruby.
+Este é o primeiro desafio de projeto do curso **Formação Ruby Developer** da [DIO](https://www.dio.me/). O objetivo principal foi praticar a entrada e saída de dados básica utilizando a linguagem Ruby.
 
 ## 📝 Sobre o Desafio
 O objetivo era criar um programa simples em Ruby que interagisse com o usuário através do terminal. O programa deve:
